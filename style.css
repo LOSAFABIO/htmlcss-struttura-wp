@@ -1,0 +1,51 @@
+body{
+    width: 80%;
+    margin: 10px auto;
+    height: 1000px;
+}
+
+
+.intestazione{
+    background-color: rgb(207, 123, 189);
+    height: 100px;
+}
+
+.primo{
+    background-color: rgb(238, 189, 53);
+    height: 350px;
+    margin: 15px 0;
+}
+
+.secondo{
+    background-color: rgb(15, 119, 255);
+    content: "";
+    clear: both; 
+    height: 450px;
+    margin-bottom: 5px;
+}   
+
+.piedipagina{
+    background-color: purple;
+    height: 50px;
+}
+
+.alto{
+    background-color: mediumaquamarine;
+    height: 20%;
+    margin-bottom: 2%;
+}
+
+.lato{
+    background-color: mediumaquamarine;
+    float: left;
+    height: 70%;
+    width: 15%;
+}
+
+.centro{
+    background-color: mediumaquamarine;
+    float: left;
+    height: 70%;
+    width: 68%;
+    margin: 0 1%;
+    }
